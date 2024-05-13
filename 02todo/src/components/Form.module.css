@@ -1,0 +1,29 @@
+.formContainer{
+    padding: 20px;
+    background-color: rgb(246, 246, 246);
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.formInput{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.formInput input{
+    width: 80%;
+    height: 25px;
+    border: none;
+    border-bottom: 1px solid grey;
+    /* box-shadow: 0 0 1px 1px grey; */
+}
+
+.formInput button{
+    width: 6%;
+    margin-left: 1%;
+    height: 30px;
+}
