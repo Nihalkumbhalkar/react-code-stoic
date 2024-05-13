@@ -1,4 +1,5 @@
 .header{
+<<<<<<< HEAD
     background-color: rgb(173, 76, 76);
     color: white;
     font-size: 20px;
@@ -6,4 +7,13 @@
     padding-top: 20px;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+=======
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(231, 231, 21);
+padding-top: 20px;
+font-size: 30px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+>>>>>>> 62a1ed6396c37ab96296284e4032c9177113d7b6
 }
