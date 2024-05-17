@@ -83,9 +83,15 @@
 // console.log(arr2);
 
 //Merging the array
-const arr1 = [1, 2, 3];
-const arr2 = [7, 8, 9];
+// const arr1 = [1, 2, 3];
+// const arr2 = [7, 8, 9];
 
-const mergedArr = [...arr1, ...arr2];
+// const mergedArr = [...arr1, ...arr2];
 
-console.log(mergedArr);
+// console.log(mergedArr);
+
+//Rest operator
+const arr1 = [1, 2, 3, 4, 6];
+const arr2 = [one, two, ...arr1];
+
+console.log("arr2", arr2);
